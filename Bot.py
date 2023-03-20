@@ -31,4 +31,4 @@ async def unban(ctx, *, member):
 async def purge(ctx, amount : int):
     await ctx.channel.purge(limit=amount)
 
-bot.run('MTA2NTIyNzE2NjE5Mjc3OTI5NA.GXr4F0.wLdpRB2MIbNqVZ0zHqk43lgAHV5-pU12mqjM4c')
+bot.run('token')
